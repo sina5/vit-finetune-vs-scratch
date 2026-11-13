@@ -1,0 +1,2592 @@
+{
+  "byte_identical_groups_any_split": [
+    [
+      7307,
+      7309
+    ],
+    [
+      8077,
+      8067
+    ],
+    [
+      7323,
+      7328
+    ],
+    [
+      7885,
+      7886
+    ]
+  ],
+  "splits": {
+    "val": {
+      "split": "val",
+      "images": 1020,
+      "exact_duplicates": [],
+      "dhash_candidates": [],
+      "cosine_candidates": [
+        {
+          "query_id": 5583,
+          "query_label": 65,
+          "train_id": 5538,
+          "train_label": 65,
+          "score": 0.9793627262115479
+        },
+        {
+          "query_id": 4207,
+          "query_label": 51,
+          "train_id": 4234,
+          "train_label": 51,
+          "score": 0.9784121513366699
+        },
+        {
+          "query_id": 5529,
+          "query_label": 65,
+          "train_id": 5576,
+          "train_label": 65,
+          "score": 0.9783338308334351
+        },
+        {
+          "query_id": 5768,
+          "query_label": 12,
+          "train_id": 5746,
+          "train_label": 12,
+          "score": 0.9771918058395386
+        },
+        {
+          "query_id": 4179,
+          "query_label": 51,
+          "train_id": 4167,
+          "train_label": 51,
+          "score": 0.9733094573020935
+        },
+        {
+          "query_id": 5541,
+          "query_label": 65,
+          "train_id": 5576,
+          "train_label": 65,
+          "score": 0.9728195071220398
+        },
+        {
+          "query_id": 3272,
+          "query_label": 64,
+          "train_id": 3269,
+          "train_label": 64,
+          "score": 0.9727988243103027
+        },
+        {
+          "query_id": 4175,
+          "query_label": 51,
+          "train_id": 4167,
+          "train_label": 51,
+          "score": 0.9715434312820435
+        },
+        {
+          "query_id": 5860,
+          "query_label": 62,
+          "train_id": 5888,
+          "train_label": 62,
+          "score": 0.971138596534729
+        },
+        {
+          "query_id": 5855,
+          "query_label": 62,
+          "train_id": 5888,
+          "train_label": 62,
+          "score": 0.9709863662719727
+        },
+        {
+          "query_id": 5582,
+          "query_label": 65,
+          "train_id": 5571,
+          "train_label": 65,
+          "score": 0.9708673357963562
+        },
+        {
+          "query_id": 5886,
+          "query_label": 62,
+          "train_id": 5893,
+          "train_label": 62,
+          "score": 0.9708638191223145
+        },
+        {
+          "query_id": 3027,
+          "query_label": 59,
+          "train_id": 2981,
+          "train_label": 59,
+          "score": 0.9693434238433838
+        },
+        {
+          "query_id": 5579,
+          "query_label": 65,
+          "train_id": 5538,
+          "train_label": 65,
+          "score": 0.9657970666885376
+        },
+        {
+          "query_id": 4170,
+          "query_label": 51,
+          "train_id": 4167,
+          "train_label": 51,
+          "score": 0.9650497436523438
+        },
+        {
+          "query_id": 4166,
+          "query_label": 51,
+          "train_id": 4167,
+          "train_label": 51,
+          "score": 0.9644225239753723
+        },
+        {
+          "query_id": 5009,
+          "query_label": 46,
+          "train_id": 4978,
+          "train_label": 46,
+          "score": 0.9631233215332031
+        },
+        {
+          "query_id": 2204,
+          "query_label": 40,
+          "train_id": 2257,
+          "train_label": 40,
+          "score": 0.9627665281295776
+        },
+        {
+          "query_id": 4181,
+          "query_label": 51,
+          "train_id": 4167,
+          "train_label": 51,
+          "score": 0.9623051881790161
+        },
+        {
+          "query_id": 3295,
+          "query_label": 7,
+          "train_id": 3356,
+          "train_label": 7,
+          "score": 0.9622505903244019
+        },
+        {
+          "query_id": 5858,
+          "query_label": 62,
+          "train_id": 5888,
+          "train_label": 62,
+          "score": 0.961772620677948
+        },
+        {
+          "query_id": 6217,
+          "query_label": 48,
+          "train_id": 6206,
+          "train_label": 48,
+          "score": 0.9613990187644958
+        },
+        {
+          "query_id": 1413,
+          "query_label": 50,
+          "train_id": 1385,
+          "train_label": 50,
+          "score": 0.9612537622451782
+        },
+        {
+          "query_id": 5533,
+          "query_label": 65,
+          "train_id": 5564,
+          "train_label": 65,
+          "score": 0.9604689478874207
+        },
+        {
+          "query_id": 8061,
+          "query_label": 90,
+          "train_id": 8057,
+          "train_label": 90,
+          "score": 0.9598057270050049
+        },
+        {
+          "query_id": 6543,
+          "query_label": 49,
+          "train_id": 6531,
+          "train_label": 49,
+          "score": 0.9592288732528687
+        },
+        {
+          "query_id": 7095,
+          "query_label": 9,
+          "train_id": 7117,
+          "train_label": 9,
+          "score": 0.9590997695922852
+        },
+        {
+          "query_id": 5568,
+          "query_label": 65,
+          "train_id": 5563,
+          "train_label": 65,
+          "score": 0.9578646421432495
+        },
+        {
+          "query_id": 4964,
+          "query_label": 46,
+          "train_id": 4986,
+          "train_label": 46,
+          "score": 0.9571443796157837
+        },
+        {
+          "query_id": 6209,
+          "query_label": 48,
+          "train_id": 6218,
+          "train_label": 48,
+          "score": 0.9571214914321899
+        },
+        {
+          "query_id": 4969,
+          "query_label": 46,
+          "train_id": 4978,
+          "train_label": 46,
+          "score": 0.9570420384407043
+        },
+        {
+          "query_id": 3770,
+          "query_label": 36,
+          "train_id": 3769,
+          "train_label": 36,
+          "score": 0.9569640755653381
+        },
+        {
+          "query_id": 6205,
+          "query_label": 48,
+          "train_id": 6218,
+          "train_label": 48,
+          "score": 0.9567289352416992
+        },
+        {
+          "query_id": 7002,
+          "query_label": 34,
+          "train_id": 8086,
+          "train_label": 34,
+          "score": 0.9566937685012817
+        },
+        {
+          "query_id": 6534,
+          "query_label": 49,
+          "train_id": 6549,
+          "train_label": 49,
+          "score": 0.956627368927002
+        },
+        {
+          "query_id": 4961,
+          "query_label": 46,
+          "train_id": 4986,
+          "train_label": 46,
+          "score": 0.9560465812683105
+        },
+        {
+          "query_id": 4186,
+          "query_label": 51,
+          "train_id": 4167,
+          "train_label": 51,
+          "score": 0.9560368061065674
+        },
+        {
+          "query_id": 5179,
+          "query_label": 4,
+          "train_id": 5186,
+          "train_label": 4,
+          "score": 0.9558756351470947
+        },
+        {
+          "query_id": 2672,
+          "query_label": 57,
+          "train_id": 2689,
+          "train_label": 57,
+          "score": 0.9557081460952759
+        },
+        {
+          "query_id": 3000,
+          "query_label": 59,
+          "train_id": 2945,
+          "train_label": 59,
+          "score": 0.955539882183075
+        },
+        {
+          "query_id": 8087,
+          "query_label": 34,
+          "train_id": 8088,
+          "train_label": 34,
+          "score": 0.955496609210968
+        },
+        {
+          "query_id": 5898,
+          "query_label": 62,
+          "train_id": 5900,
+          "train_label": 62,
+          "score": 0.955268919467926
+        },
+        {
+          "query_id": 2201,
+          "query_label": 40,
+          "train_id": 2191,
+          "train_label": 40,
+          "score": 0.9550700187683105
+        },
+        {
+          "query_id": 6239,
+          "query_label": 48,
+          "train_id": 6232,
+          "train_label": 48,
+          "score": 0.9546579122543335
+        },
+        {
+          "query_id": 6224,
+          "query_label": 48,
+          "train_id": 6232,
+          "train_label": 48,
+          "score": 0.9535399675369263
+        },
+        {
+          "query_id": 5530,
+          "query_label": 65,
+          "train_id": 5538,
+          "train_label": 65,
+          "score": 0.9525859951972961
+        },
+        {
+          "query_id": 6858,
+          "query_label": 26,
+          "train_id": 6870,
+          "train_label": 26,
+          "score": 0.9523850679397583
+        },
+        {
+          "query_id": 2959,
+          "query_label": 59,
+          "train_id": 2939,
+          "train_label": 59,
+          "score": 0.9521105289459229
+        },
+        {
+          "query_id": 5971,
+          "query_label": 68,
+          "train_id": 5972,
+          "train_label": 68,
+          "score": 0.9517292380332947
+        },
+        {
+          "query_id": 2250,
+          "query_label": 40,
+          "train_id": 2191,
+          "train_label": 40,
+          "score": 0.9517133235931396
+        },
+        {
+          "query_id": 7280,
+          "query_label": 61,
+          "train_id": 7274,
+          "train_label": 61,
+          "score": 0.9512915015220642
+        },
+        {
+          "query_id": 7102,
+          "query_label": 9,
+          "train_id": 7117,
+          "train_label": 9,
+          "score": 0.9505470395088196
+        },
+        {
+          "query_id": 2956,
+          "query_label": 59,
+          "train_id": 2981,
+          "train_label": 59,
+          "score": 0.9503713846206665
+        }
+      ],
+      "cosine_top": [
+        {
+          "query_id": 5583,
+          "query_label": 65,
+          "train_id": 5538,
+          "train_label": 65,
+          "score": 0.9793627262115479
+        },
+        {
+          "query_id": 4207,
+          "query_label": 51,
+          "train_id": 4234,
+          "train_label": 51,
+          "score": 0.9784121513366699
+        },
+        {
+          "query_id": 5529,
+          "query_label": 65,
+          "train_id": 5576,
+          "train_label": 65,
+          "score": 0.9783338308334351
+        },
+        {
+          "query_id": 5768,
+          "query_label": 12,
+          "train_id": 5746,
+          "train_label": 12,
+          "score": 0.9771918058395386
+        },
+        {
+          "query_id": 4179,
+          "query_label": 51,
+          "train_id": 4167,
+          "train_label": 51,
+          "score": 0.9733094573020935
+        },
+        {
+          "query_id": 5541,
+          "query_label": 65,
+          "train_id": 5576,
+          "train_label": 65,
+          "score": 0.9728195071220398
+        },
+        {
+          "query_id": 3272,
+          "query_label": 64,
+          "train_id": 3269,
+          "train_label": 64,
+          "score": 0.9727988243103027
+        },
+        {
+          "query_id": 4175,
+          "query_label": 51,
+          "train_id": 4167,
+          "train_label": 51,
+          "score": 0.9715434312820435
+        },
+        {
+          "query_id": 5860,
+          "query_label": 62,
+          "train_id": 5888,
+          "train_label": 62,
+          "score": 0.971138596534729
+        },
+        {
+          "query_id": 5855,
+          "query_label": 62,
+          "train_id": 5888,
+          "train_label": 62,
+          "score": 0.9709863662719727
+        },
+        {
+          "query_id": 5582,
+          "query_label": 65,
+          "train_id": 5571,
+          "train_label": 65,
+          "score": 0.9708673357963562
+        },
+        {
+          "query_id": 5886,
+          "query_label": 62,
+          "train_id": 5893,
+          "train_label": 62,
+          "score": 0.9708638191223145
+        }
+      ]
+    },
+    "test": {
+      "split": "test",
+      "images": 6149,
+      "exact_duplicates": [
+        {
+          "query_id": 7309,
+          "query_label": 93,
+          "train_id": 7307,
+          "train_label": 93,
+          "score": 0.0
+        }
+      ],
+      "dhash_candidates": [
+        {
+          "query_id": 7309,
+          "query_label": 93,
+          "train_id": 7307,
+          "train_label": 93,
+          "score": 0.0
+        },
+        {
+          "query_id": 5133,
+          "query_label": 1,
+          "train_id": 5124,
+          "train_label": 1,
+          "score": 4.0
+        },
+        {
+          "query_id": 5140,
+          "query_label": 1,
+          "train_id": 5146,
+          "train_label": 1,
+          "score": 4.0
+        },
+        {
+          "query_id": 5107,
+          "query_label": 1,
+          "train_id": 5146,
+          "train_label": 1,
+          "score": 5.0
+        },
+        {
+          "query_id": 6210,
+          "query_label": 48,
+          "train_id": 6310,
+          "train_label": 49,
+          "score": 5.0
+        },
+        {
+          "query_id": 2913,
+          "query_label": 85,
+          "train_id": 6768,
+          "train_label": 0,
+          "score": 6.0
+        },
+        {
+          "query_id": 7108,
+          "query_label": 9,
+          "train_id": 6310,
+          "train_label": 49,
+          "score": 6.0
+        }
+      ],
+      "cosine_candidates": [
+        {
+          "query_id": 7309,
+          "query_label": 93,
+          "train_id": 7307,
+          "train_label": 93,
+          "score": 0.9999999403953552
+        },
+        {
+          "query_id": 49,
+          "query_label": 76,
+          "train_id": 177,
+          "train_label": 76,
+          "score": 0.9916442632675171
+        },
+        {
+          "query_id": 182,
+          "query_label": 76,
+          "train_id": 177,
+          "train_label": 76,
+          "score": 0.9915431141853333
+        },
+        {
+          "query_id": 6244,
+          "query_label": 48,
+          "train_id": 6213,
+          "train_label": 48,
+          "score": 0.9898850321769714
+        },
+        {
+          "query_id": 3419,
+          "query_label": 22,
+          "train_id": 3440,
+          "train_label": 22,
+          "score": 0.9891664981842041
+        },
+        {
+          "query_id": 4078,
+          "query_label": 11,
+          "train_id": 4058,
+          "train_label": 11,
+          "score": 0.9888373017311096
+        },
+        {
+          "query_id": 4212,
+          "query_label": 51,
+          "train_id": 4224,
+          "train_label": 51,
+          "score": 0.9870244264602661
+        },
+        {
+          "query_id": 3995,
+          "query_label": 11,
+          "train_id": 4027,
+          "train_label": 11,
+          "score": 0.9851346611976624
+        },
+        {
+          "query_id": 4131,
+          "query_label": 28,
+          "train_id": 4127,
+          "train_label": 28,
+          "score": 0.9848360419273376
+        },
+        {
+          "query_id": 5543,
+          "query_label": 65,
+          "train_id": 5576,
+          "train_label": 65,
+          "score": 0.9826988577842712
+        },
+        {
+          "query_id": 5526,
+          "query_label": 65,
+          "train_id": 5538,
+          "train_label": 65,
+          "score": 0.9815849661827087
+        },
+        {
+          "query_id": 5554,
+          "query_label": 65,
+          "train_id": 5576,
+          "train_label": 65,
+          "score": 0.9814577102661133
+        },
+        {
+          "query_id": 1490,
+          "query_label": 50,
+          "train_id": 1456,
+          "train_label": 50,
+          "score": 0.981313943862915
+        },
+        {
+          "query_id": 5877,
+          "query_label": 62,
+          "train_id": 5888,
+          "train_label": 62,
+          "score": 0.9804163575172424
+        },
+        {
+          "query_id": 5445,
+          "query_label": 53,
+          "train_id": 5431,
+          "train_label": 53,
+          "score": 0.9803709387779236
+        },
+        {
+          "query_id": 5577,
+          "query_label": 65,
+          "train_id": 5576,
+          "train_label": 65,
+          "score": 0.9801881313323975
+        },
+        {
+          "query_id": 6535,
+          "query_label": 49,
+          "train_id": 6549,
+          "train_label": 49,
+          "score": 0.9795641899108887
+        },
+        {
+          "query_id": 5853,
+          "query_label": 62,
+          "train_id": 5888,
+          "train_label": 62,
+          "score": 0.9794715642929077
+        },
+        {
+          "query_id": 2302,
+          "query_label": 40,
+          "train_id": 2257,
+          "train_label": 40,
+          "score": 0.9793448448181152
+        },
+        {
+          "query_id": 4239,
+          "query_label": 51,
+          "train_id": 4189,
+          "train_label": 51,
+          "score": 0.9791685342788696
+        },
+        {
+          "query_id": 5525,
+          "query_label": 65,
+          "train_id": 5564,
+          "train_label": 65,
+          "score": 0.979093611240387
+        },
+        {
+          "query_id": 5546,
+          "query_label": 65,
+          "train_id": 5538,
+          "train_label": 65,
+          "score": 0.9774327278137207
+        },
+        {
+          "query_id": 5558,
+          "query_label": 65,
+          "train_id": 5538,
+          "train_label": 65,
+          "score": 0.9774209260940552
+        },
+        {
+          "query_id": 4004,
+          "query_label": 11,
+          "train_id": 4066,
+          "train_label": 11,
+          "score": 0.977161169052124
+        },
+        {
+          "query_id": 7310,
+          "query_label": 93,
+          "train_id": 7424,
+          "train_label": 93,
+          "score": 0.9765319228172302
+        },
+        {
+          "query_id": 5531,
+          "query_label": 65,
+          "train_id": 5538,
+          "train_label": 65,
+          "score": 0.9756281971931458
+        },
+        {
+          "query_id": 3431,
+          "query_label": 22,
+          "train_id": 3446,
+          "train_label": 22,
+          "score": 0.975586473941803
+        },
+        {
+          "query_id": 6389,
+          "query_label": 14,
+          "train_id": 6368,
+          "train_label": 14,
+          "score": 0.9750962853431702
+        },
+        {
+          "query_id": 931,
+          "query_label": 80,
+          "train_id": 921,
+          "train_label": 80,
+          "score": 0.9750396013259888
+        },
+        {
+          "query_id": 5385,
+          "query_label": 21,
+          "train_id": 5379,
+          "train_label": 21,
+          "score": 0.9748041033744812
+        },
+        {
+          "query_id": 5574,
+          "query_label": 65,
+          "train_id": 5576,
+          "train_label": 65,
+          "score": 0.9747603535652161
+        },
+        {
+          "query_id": 6987,
+          "query_label": 34,
+          "train_id": 6994,
+          "train_label": 34,
+          "score": 0.9747015833854675
+        },
+        {
+          "query_id": 3275,
+          "query_label": 64,
+          "train_id": 3183,
+          "train_label": 64,
+          "score": 0.9746711254119873
+        },
+        {
+          "query_id": 5555,
+          "query_label": 65,
+          "train_id": 5576,
+          "train_label": 65,
+          "score": 0.9746378660202026
+        },
+        {
+          "query_id": 5572,
+          "query_label": 65,
+          "train_id": 5576,
+          "train_label": 65,
+          "score": 0.9745820760726929
+        },
+        {
+          "query_id": 5561,
+          "query_label": 65,
+          "train_id": 5560,
+          "train_label": 65,
+          "score": 0.9743435978889465
+        },
+        {
+          "query_id": 5542,
+          "query_label": 65,
+          "train_id": 5538,
+          "train_label": 65,
+          "score": 0.9742810130119324
+        },
+        {
+          "query_id": 5575,
+          "query_label": 65,
+          "train_id": 5576,
+          "train_label": 65,
+          "score": 0.973802924156189
+        },
+        {
+          "query_id": 6935,
+          "query_label": 33,
+          "train_id": 6956,
+          "train_label": 33,
+          "score": 0.9737768769264221
+        },
+        {
+          "query_id": 3416,
+          "query_label": 22,
+          "train_id": 3427,
+          "train_label": 22,
+          "score": 0.973754346370697
+        },
+        {
+          "query_id": 5545,
+          "query_label": 65,
+          "train_id": 5560,
+          "train_label": 65,
+          "score": 0.9736441969871521
+        },
+        {
+          "query_id": 5854,
+          "query_label": 62,
+          "train_id": 5888,
+          "train_label": 62,
+          "score": 0.9733210206031799
+        },
+        {
+          "query_id": 5133,
+          "query_label": 1,
+          "train_id": 5124,
+          "train_label": 1,
+          "score": 0.9730111360549927
+        },
+        {
+          "query_id": 3409,
+          "query_label": 22,
+          "train_id": 3399,
+          "train_label": 22,
+          "score": 0.9729191064834595
+        },
+        {
+          "query_id": 4648,
+          "query_label": 47,
+          "train_id": 4683,
+          "train_label": 47,
+          "score": 0.9728376269340515
+        },
+        {
+          "query_id": 5556,
+          "query_label": 65,
+          "train_id": 5581,
+          "train_label": 65,
+          "score": 0.97259920835495
+        },
+        {
+          "query_id": 5859,
+          "query_label": 62,
+          "train_id": 5888,
+          "train_label": 62,
+          "score": 0.9722872972488403
+        },
+        {
+          "query_id": 3728,
+          "query_label": 52,
+          "train_id": 3719,
+          "train_label": 52,
+          "score": 0.9721965193748474
+        },
+        {
+          "query_id": 5875,
+          "query_label": 62,
+          "train_id": 5888,
+          "train_label": 62,
+          "score": 0.9718470573425293
+        },
+        {
+          "query_id": 5565,
+          "query_label": 65,
+          "train_id": 5523,
+          "train_label": 65,
+          "score": 0.9717869162559509
+        },
+        {
+          "query_id": 5562,
+          "query_label": 65,
+          "train_id": 5560,
+          "train_label": 65,
+          "score": 0.9717551469802856
+        },
+        {
+          "query_id": 5566,
+          "query_label": 65,
+          "train_id": 5564,
+          "train_label": 65,
+          "score": 0.9715901017189026
+        },
+        {
+          "query_id": 5851,
+          "query_label": 62,
+          "train_id": 5893,
+          "train_label": 62,
+          "score": 0.9715818166732788
+        },
+        {
+          "query_id": 3556,
+          "query_label": 71,
+          "train_id": 3548,
+          "train_label": 71,
+          "score": 0.9711170196533203
+        },
+        {
+          "query_id": 5557,
+          "query_label": 65,
+          "train_id": 5538,
+          "train_label": 65,
+          "score": 0.971089780330658
+        },
+        {
+          "query_id": 3232,
+          "query_label": 64,
+          "train_id": 3183,
+          "train_label": 64,
+          "score": 0.9708698391914368
+        },
+        {
+          "query_id": 6557,
+          "query_label": 49,
+          "train_id": 6556,
+          "train_label": 49,
+          "score": 0.9705530405044556
+        },
+        {
+          "query_id": 1780,
+          "query_label": 82,
+          "train_id": 1816,
+          "train_label": 82,
+          "score": 0.9703043699264526
+        },
+        {
+          "query_id": 2766,
+          "query_label": 55,
+          "train_id": 2776,
+          "train_label": 55,
+          "score": 0.9702346920967102
+        },
+        {
+          "query_id": 6203,
+          "query_label": 48,
+          "train_id": 6218,
+          "train_label": 48,
+          "score": 0.9702253937721252
+        },
+        {
+          "query_id": 5849,
+          "query_label": 62,
+          "train_id": 5891,
+          "train_label": 62,
+          "score": 0.9701071977615356
+        },
+        {
+          "query_id": 5884,
+          "query_label": 62,
+          "train_id": 5888,
+          "train_label": 62,
+          "score": 0.9700695276260376
+        },
+        {
+          "query_id": 4973,
+          "query_label": 46,
+          "train_id": 4978,
+          "train_label": 46,
+          "score": 0.9700363874435425
+        },
+        {
+          "query_id": 389,
+          "query_label": 72,
+          "train_id": 380,
+          "train_label": 72,
+          "score": 0.9699452519416809
+        },
+        {
+          "query_id": 4162,
+          "query_label": 51,
+          "train_id": 4167,
+          "train_label": 51,
+          "score": 0.9693556427955627
+        },
+        {
+          "query_id": 5890,
+          "query_label": 62,
+          "train_id": 5891,
+          "train_label": 62,
+          "score": 0.969298779964447
+        },
+        {
+          "query_id": 5889,
+          "query_label": 62,
+          "train_id": 5876,
+          "train_label": 62,
+          "score": 0.9691473841667175
+        },
+        {
+          "query_id": 6309,
+          "query_label": 49,
+          "train_id": 6335,
+          "train_label": 49,
+          "score": 0.968822181224823
+        },
+        {
+          "query_id": 2816,
+          "query_label": 55,
+          "train_id": 2828,
+          "train_label": 55,
+          "score": 0.9687713980674744
+        },
+        {
+          "query_id": 5160,
+          "query_label": 4,
+          "train_id": 5191,
+          "train_label": 4,
+          "score": 0.9685196876525879
+        },
+        {
+          "query_id": 2290,
+          "query_label": 40,
+          "train_id": 2191,
+          "train_label": 40,
+          "score": 0.9683182835578918
+        },
+        {
+          "query_id": 5549,
+          "query_label": 65,
+          "train_id": 5576,
+          "train_label": 65,
+          "score": 0.9682628512382507
+        },
+        {
+          "query_id": 4955,
+          "query_label": 46,
+          "train_id": 5004,
+          "train_label": 46,
+          "score": 0.9682304859161377
+        },
+        {
+          "query_id": 5857,
+          "query_label": 62,
+          "train_id": 5900,
+          "train_label": 62,
+          "score": 0.9681758284568787
+        },
+        {
+          "query_id": 5540,
+          "query_label": 65,
+          "train_id": 5576,
+          "train_label": 65,
+          "score": 0.9677757024765015
+        },
+        {
+          "query_id": 266,
+          "query_label": 72,
+          "train_id": 380,
+          "train_label": 72,
+          "score": 0.9675936698913574
+        },
+        {
+          "query_id": 4177,
+          "query_label": 51,
+          "train_id": 4167,
+          "train_label": 51,
+          "score": 0.9675894975662231
+        },
+        {
+          "query_id": 5534,
+          "query_label": 65,
+          "train_id": 5576,
+          "train_label": 65,
+          "score": 0.9674183130264282
+        },
+        {
+          "query_id": 3512,
+          "query_label": 29,
+          "train_id": 3510,
+          "train_label": 29,
+          "score": 0.9673020839691162
+        },
+        {
+          "query_id": 2726,
+          "query_label": 57,
+          "train_id": 2649,
+          "train_label": 57,
+          "score": 0.9672737717628479
+        },
+        {
+          "query_id": 5580,
+          "query_label": 65,
+          "train_id": 5581,
+          "train_label": 65,
+          "score": 0.9667870998382568
+        },
+        {
+          "query_id": 3274,
+          "query_label": 64,
+          "train_id": 3270,
+          "train_label": 64,
+          "score": 0.9667325019836426
+        },
+        {
+          "query_id": 5570,
+          "query_label": 65,
+          "train_id": 5563,
+          "train_label": 65,
+          "score": 0.9665622115135193
+        },
+        {
+          "query_id": 5863,
+          "query_label": 62,
+          "train_id": 5900,
+          "train_label": 62,
+          "score": 0.9663664698600769
+        },
+        {
+          "query_id": 6991,
+          "query_label": 34,
+          "train_id": 6973,
+          "train_label": 34,
+          "score": 0.9661687016487122
+        },
+        {
+          "query_id": 5865,
+          "query_label": 62,
+          "train_id": 5888,
+          "train_label": 62,
+          "score": 0.9659879207611084
+        },
+        {
+          "query_id": 5535,
+          "query_label": 65,
+          "train_id": 5564,
+          "train_label": 65,
+          "score": 0.9659206867218018
+        },
+        {
+          "query_id": 5003,
+          "query_label": 46,
+          "train_id": 5004,
+          "train_label": 46,
+          "score": 0.9658709764480591
+        },
+        {
+          "query_id": 4164,
+          "query_label": 51,
+          "train_id": 4167,
+          "train_label": 51,
+          "score": 0.9657833576202393
+        },
+        {
+          "query_id": 8006,
+          "query_label": 101,
+          "train_id": 8036,
+          "train_label": 101,
+          "score": 0.965640664100647
+        },
+        {
+          "query_id": 4987,
+          "query_label": 46,
+          "train_id": 4986,
+          "train_label": 46,
+          "score": 0.9656050205230713
+        },
+        {
+          "query_id": 2155,
+          "query_label": 74,
+          "train_id": 2184,
+          "train_label": 74,
+          "score": 0.965118408203125
+        },
+        {
+          "query_id": 4185,
+          "query_label": 51,
+          "train_id": 4167,
+          "train_label": 51,
+          "score": 0.9650166630744934
+        },
+        {
+          "query_id": 6539,
+          "query_label": 49,
+          "train_id": 6549,
+          "train_label": 49,
+          "score": 0.9650144577026367
+        },
+        {
+          "query_id": 6532,
+          "query_label": 49,
+          "train_id": 6549,
+          "train_label": 49,
+          "score": 0.9649977684020996
+        },
+        {
+          "query_id": 4174,
+          "query_label": 51,
+          "train_id": 4167,
+          "train_label": 51,
+          "score": 0.9647319912910461
+        },
+        {
+          "query_id": 2942,
+          "query_label": 59,
+          "train_id": 2981,
+          "train_label": 59,
+          "score": 0.9647311568260193
+        },
+        {
+          "query_id": 2831,
+          "query_label": 55,
+          "train_id": 2832,
+          "train_label": 55,
+          "score": 0.964703381061554
+        },
+        {
+          "query_id": 5547,
+          "query_label": 65,
+          "train_id": 5538,
+          "train_label": 65,
+          "score": 0.9646904468536377
+        },
+        {
+          "query_id": 24,
+          "query_label": 76,
+          "train_id": 177,
+          "train_label": 76,
+          "score": 0.9645718336105347
+        },
+        {
+          "query_id": 4957,
+          "query_label": 46,
+          "train_id": 4970,
+          "train_label": 46,
+          "score": 0.9641222357749939
+        },
+        {
+          "query_id": 4172,
+          "query_label": 51,
+          "train_id": 4167,
+          "train_label": 51,
+          "score": 0.9640942811965942
+        },
+        {
+          "query_id": 2994,
+          "query_label": 59,
+          "train_id": 2949,
+          "train_label": 59,
+          "score": 0.9639666676521301
+        },
+        {
+          "query_id": 53,
+          "query_label": 76,
+          "train_id": 177,
+          "train_label": 76,
+          "score": 0.96394944190979
+        },
+        {
+          "query_id": 4182,
+          "query_label": 51,
+          "train_id": 4167,
+          "train_label": 51,
+          "score": 0.9636325240135193
+        },
+        {
+          "query_id": 8040,
+          "query_label": 101,
+          "train_id": 8041,
+          "train_label": 101,
+          "score": 0.9636218547821045
+        },
+        {
+          "query_id": 4243,
+          "query_label": 51,
+          "train_id": 4167,
+          "train_label": 51,
+          "score": 0.9632333517074585
+        },
+        {
+          "query_id": 5887,
+          "query_label": 62,
+          "train_id": 5888,
+          "train_label": 62,
+          "score": 0.9631083011627197
+        },
+        {
+          "query_id": 2948,
+          "query_label": 59,
+          "train_id": 2949,
+          "train_label": 59,
+          "score": 0.9630551934242249
+        },
+        {
+          "query_id": 6227,
+          "query_label": 48,
+          "train_id": 6218,
+          "train_label": 48,
+          "score": 0.9628888368606567
+        },
+        {
+          "query_id": 5848,
+          "query_label": 37,
+          "train_id": 5832,
+          "train_label": 37,
+          "score": 0.9627736210823059
+        },
+        {
+          "query_id": 5544,
+          "query_label": 65,
+          "train_id": 5523,
+          "train_label": 65,
+          "score": 0.9627690315246582
+        },
+        {
+          "query_id": 5856,
+          "query_label": 62,
+          "train_id": 5893,
+          "train_label": 62,
+          "score": 0.9626979827880859
+        },
+        {
+          "query_id": 3001,
+          "query_label": 59,
+          "train_id": 2949,
+          "train_label": 59,
+          "score": 0.9625929594039917
+        },
+        {
+          "query_id": 5013,
+          "query_label": 46,
+          "train_id": 4975,
+          "train_label": 46,
+          "score": 0.9625123739242554
+        },
+        {
+          "query_id": 4989,
+          "query_label": 46,
+          "train_id": 4986,
+          "train_label": 46,
+          "score": 0.9623391628265381
+        },
+        {
+          "query_id": 2943,
+          "query_label": 59,
+          "train_id": 2981,
+          "train_label": 59,
+          "score": 0.9621360301971436
+        },
+        {
+          "query_id": 820,
+          "query_label": 80,
+          "train_id": 921,
+          "train_label": 80,
+          "score": 0.961840033531189
+        },
+        {
+          "query_id": 2985,
+          "query_label": 59,
+          "train_id": 2939,
+          "train_label": 59,
+          "score": 0.9617024064064026
+        },
+        {
+          "query_id": 4183,
+          "query_label": 51,
+          "train_id": 4167,
+          "train_label": 51,
+          "score": 0.9616953134536743
+        },
+        {
+          "query_id": 305,
+          "query_label": 72,
+          "train_id": 319,
+          "train_label": 72,
+          "score": 0.961693525314331
+        },
+        {
+          "query_id": 6201,
+          "query_label": 48,
+          "train_id": 6233,
+          "train_label": 48,
+          "score": 0.9615800380706787
+        },
+        {
+          "query_id": 5883,
+          "query_label": 62,
+          "train_id": 5888,
+          "train_label": 62,
+          "score": 0.9614983797073364
+        },
+        {
+          "query_id": 6228,
+          "query_label": 48,
+          "train_id": 6229,
+          "train_label": 48,
+          "score": 0.9614924788475037
+        },
+        {
+          "query_id": 2925,
+          "query_label": 59,
+          "train_id": 2939,
+          "train_label": 59,
+          "score": 0.9614709615707397
+        },
+        {
+          "query_id": 3026,
+          "query_label": 59,
+          "train_id": 2981,
+          "train_label": 59,
+          "score": 0.9614570736885071
+        },
+        {
+          "query_id": 5861,
+          "query_label": 62,
+          "train_id": 5893,
+          "train_label": 62,
+          "score": 0.9614263772964478
+        },
+        {
+          "query_id": 3007,
+          "query_label": 59,
+          "train_id": 2949,
+          "train_label": 59,
+          "score": 0.9614112377166748
+        },
+        {
+          "query_id": 2194,
+          "query_label": 40,
+          "train_id": 2275,
+          "train_label": 40,
+          "score": 0.9613578915596008
+        },
+        {
+          "query_id": 3014,
+          "query_label": 59,
+          "train_id": 2949,
+          "train_label": 59,
+          "score": 0.9612343311309814
+        },
+        {
+          "query_id": 5578,
+          "query_label": 65,
+          "train_id": 5538,
+          "train_label": 65,
+          "score": 0.9612098932266235
+        },
+        {
+          "query_id": 4160,
+          "query_label": 51,
+          "train_id": 4167,
+          "train_label": 51,
+          "score": 0.9610605239868164
+        },
+        {
+          "query_id": 2930,
+          "query_label": 59,
+          "train_id": 2963,
+          "train_label": 59,
+          "score": 0.9605620503425598
+        },
+        {
+          "query_id": 2858,
+          "query_label": 55,
+          "train_id": 2828,
+          "train_label": 55,
+          "score": 0.9604969024658203
+        },
+        {
+          "query_id": 6215,
+          "query_label": 48,
+          "train_id": 6218,
+          "train_label": 48,
+          "score": 0.9601713418960571
+        },
+        {
+          "query_id": 5899,
+          "query_label": 62,
+          "train_id": 5893,
+          "train_label": 62,
+          "score": 0.9600890874862671
+        },
+        {
+          "query_id": 3212,
+          "query_label": 64,
+          "train_id": 3215,
+          "train_label": 64,
+          "score": 0.9600680470466614
+        },
+        {
+          "query_id": 5553,
+          "query_label": 65,
+          "train_id": 5576,
+          "train_label": 65,
+          "score": 0.9600149393081665
+        },
+        {
+          "query_id": 4176,
+          "query_label": 51,
+          "train_id": 4167,
+          "train_label": 51,
+          "score": 0.9599798321723938
+        },
+        {
+          "query_id": 4998,
+          "query_label": 46,
+          "train_id": 5000,
+          "train_label": 46,
+          "score": 0.9598751068115234
+        },
+        {
+          "query_id": 2941,
+          "query_label": 59,
+          "train_id": 2949,
+          "train_label": 59,
+          "score": 0.9596247673034668
+        },
+        {
+          "query_id": 393,
+          "query_label": 72,
+          "train_id": 319,
+          "train_label": 72,
+          "score": 0.9595946669578552
+        },
+        {
+          "query_id": 8000,
+          "query_label": 101,
+          "train_id": 8013,
+          "train_label": 101,
+          "score": 0.9595235586166382
+        },
+        {
+          "query_id": 259,
+          "query_label": 72,
+          "train_id": 380,
+          "train_label": 72,
+          "score": 0.9594927430152893
+        },
+        {
+          "query_id": 2979,
+          "query_label": 59,
+          "train_id": 2981,
+          "train_label": 59,
+          "score": 0.9594498872756958
+        },
+        {
+          "query_id": 5532,
+          "query_label": 65,
+          "train_id": 5523,
+          "train_label": 65,
+          "score": 0.9593877792358398
+        },
+        {
+          "query_id": 8114,
+          "query_label": 92,
+          "train_id": 8115,
+          "train_label": 92,
+          "score": 0.9592593908309937
+        },
+        {
+          "query_id": 6970,
+          "query_label": 34,
+          "train_id": 7000,
+          "train_label": 34,
+          "score": 0.9590942859649658
+        },
+        {
+          "query_id": 6226,
+          "query_label": 48,
+          "train_id": 6218,
+          "train_label": 48,
+          "score": 0.959037184715271
+        },
+        {
+          "query_id": 4173,
+          "query_label": 51,
+          "train_id": 4167,
+          "train_label": 51,
+          "score": 0.9590036869049072
+        },
+        {
+          "query_id": 2199,
+          "query_label": 40,
+          "train_id": 2275,
+          "train_label": 40,
+          "score": 0.9587099552154541
+        },
+        {
+          "query_id": 5569,
+          "query_label": 65,
+          "train_id": 5564,
+          "train_label": 65,
+          "score": 0.9586714506149292
+        },
+        {
+          "query_id": 2935,
+          "query_label": 59,
+          "train_id": 2949,
+          "train_label": 59,
+          "score": 0.9585607051849365
+        },
+        {
+          "query_id": 221,
+          "query_label": 76,
+          "train_id": 177,
+          "train_label": 76,
+          "score": 0.9584388136863708
+        },
+        {
+          "query_id": 1444,
+          "query_label": 50,
+          "train_id": 1448,
+          "train_label": 50,
+          "score": 0.9584089517593384
+        },
+        {
+          "query_id": 3195,
+          "query_label": 64,
+          "train_id": 3183,
+          "train_label": 64,
+          "score": 0.9583631753921509
+        },
+        {
+          "query_id": 5878,
+          "query_label": 62,
+          "train_id": 5888,
+          "train_label": 62,
+          "score": 0.9583401679992676
+        },
+        {
+          "query_id": 137,
+          "query_label": 76,
+          "train_id": 177,
+          "train_label": 76,
+          "score": 0.9582961797714233
+        },
+        {
+          "query_id": 6537,
+          "query_label": 49,
+          "train_id": 6549,
+          "train_label": 49,
+          "score": 0.9582164883613586
+        },
+        {
+          "query_id": 2777,
+          "query_label": 55,
+          "train_id": 2776,
+          "train_label": 55,
+          "score": 0.9580202102661133
+        },
+        {
+          "query_id": 3043,
+          "query_label": 91,
+          "train_id": 3072,
+          "train_label": 91,
+          "score": 0.9579676985740662
+        },
+        {
+          "query_id": 5202,
+          "query_label": 4,
+          "train_id": 5186,
+          "train_label": 4,
+          "score": 0.9579591751098633
+        },
+        {
+          "query_id": 3090,
+          "query_label": 91,
+          "train_id": 3072,
+          "train_label": 91,
+          "score": 0.9579579830169678
+        },
+        {
+          "query_id": 2270,
+          "query_label": 40,
+          "train_id": 2231,
+          "train_label": 40,
+          "score": 0.9578208327293396
+        },
+        {
+          "query_id": 4499,
+          "query_label": 70,
+          "train_id": 4500,
+          "train_label": 70,
+          "score": 0.9576536417007446
+        },
+        {
+          "query_id": 7394,
+          "query_label": 93,
+          "train_id": 7351,
+          "train_label": 93,
+          "score": 0.9575903415679932
+        },
+        {
+          "query_id": 246,
+          "query_label": 76,
+          "train_id": 177,
+          "train_label": 76,
+          "score": 0.9573649168014526
+        },
+        {
+          "query_id": 5536,
+          "query_label": 65,
+          "train_id": 5538,
+          "train_label": 65,
+          "score": 0.9573439955711365
+        },
+        {
+          "query_id": 2940,
+          "query_label": 59,
+          "train_id": 2996,
+          "train_label": 59,
+          "score": 0.9572727680206299
+        },
+        {
+          "query_id": 72,
+          "query_label": 76,
+          "train_id": 177,
+          "train_label": 76,
+          "score": 0.9572479128837585
+        },
+        {
+          "query_id": 5864,
+          "query_label": 62,
+          "train_id": 5888,
+          "train_label": 62,
+          "score": 0.9572303891181946
+        },
+        {
+          "query_id": 2781,
+          "query_label": 55,
+          "train_id": 2776,
+          "train_label": 55,
+          "score": 0.9572292566299438
+        },
+        {
+          "query_id": 6221,
+          "query_label": 48,
+          "train_id": 6218,
+          "train_label": 48,
+          "score": 0.9569193720817566
+        },
+        {
+          "query_id": 3632,
+          "query_label": 71,
+          "train_id": 3617,
+          "train_label": 71,
+          "score": 0.956853985786438
+        },
+        {
+          "query_id": 2989,
+          "query_label": 59,
+          "train_id": 2949,
+          "train_label": 59,
+          "score": 0.9565926790237427
+        },
+        {
+          "query_id": 5190,
+          "query_label": 4,
+          "train_id": 5186,
+          "train_label": 4,
+          "score": 0.9565258026123047
+        },
+        {
+          "query_id": 5008,
+          "query_label": 46,
+          "train_id": 4975,
+          "train_label": 46,
+          "score": 0.9564070701599121
+        },
+        {
+          "query_id": 5548,
+          "query_label": 65,
+          "train_id": 5538,
+          "train_label": 65,
+          "score": 0.9562599062919617
+        },
+        {
+          "query_id": 6234,
+          "query_label": 48,
+          "train_id": 6229,
+          "train_label": 48,
+          "score": 0.956125795841217
+        },
+        {
+          "query_id": 146,
+          "query_label": 76,
+          "train_id": 177,
+          "train_label": 76,
+          "score": 0.9561110734939575
+        },
+        {
+          "query_id": 241,
+          "query_label": 76,
+          "train_id": 28,
+          "train_label": 76,
+          "score": 0.9559787511825562
+        },
+        {
+          "query_id": 1916,
+          "query_label": 77,
+          "train_id": 1932,
+          "train_label": 77,
+          "score": 0.9558852314949036
+        },
+        {
+          "query_id": 2817,
+          "query_label": 55,
+          "train_id": 2828,
+          "train_label": 55,
+          "score": 0.9558612108230591
+        },
+        {
+          "query_id": 6211,
+          "query_label": 48,
+          "train_id": 6218,
+          "train_label": 48,
+          "score": 0.9558413624763489
+        },
+        {
+          "query_id": 108,
+          "query_label": 76,
+          "train_id": 177,
+          "train_label": 76,
+          "score": 0.9558126330375671
+        },
+        {
+          "query_id": 4168,
+          "query_label": 51,
+          "train_id": 4167,
+          "train_label": 51,
+          "score": 0.9557865858078003
+        },
+        {
+          "query_id": 4980,
+          "query_label": 46,
+          "train_id": 4986,
+          "train_label": 46,
+          "score": 0.9557666778564453
+        },
+        {
+          "query_id": 64,
+          "query_label": 76,
+          "train_id": 177,
+          "train_label": 76,
+          "score": 0.9554440975189209
+        },
+        {
+          "query_id": 3475,
+          "query_label": 29,
+          "train_id": 3510,
+          "train_label": 29,
+          "score": 0.9553603529930115
+        },
+        {
+          "query_id": 398,
+          "query_label": 72,
+          "train_id": 380,
+          "train_label": 72,
+          "score": 0.9553458094596863
+        },
+        {
+          "query_id": 2997,
+          "query_label": 59,
+          "train_id": 2939,
+          "train_label": 59,
+          "score": 0.9553108215332031
+        },
+        {
+          "query_id": 3277,
+          "query_label": 64,
+          "train_id": 3183,
+          "train_label": 64,
+          "score": 0.95527184009552
+        },
+        {
+          "query_id": 4519,
+          "query_label": 70,
+          "train_id": 4554,
+          "train_label": 70,
+          "score": 0.9552149772644043
+        },
+        {
+          "query_id": 3251,
+          "query_label": 64,
+          "train_id": 3215,
+          "train_label": 64,
+          "score": 0.9552116394042969
+        },
+        {
+          "query_id": 4231,
+          "query_label": 51,
+          "train_id": 4167,
+          "train_label": 51,
+          "score": 0.9552053213119507
+        },
+        {
+          "query_id": 2243,
+          "query_label": 40,
+          "train_id": 2257,
+          "train_label": 40,
+          "score": 0.9550032019615173
+        },
+        {
+          "query_id": 4994,
+          "query_label": 46,
+          "train_id": 4986,
+          "train_label": 46,
+          "score": 0.954831600189209
+        },
+        {
+          "query_id": 4259,
+          "query_label": 17,
+          "train_id": 4297,
+          "train_label": 17,
+          "score": 0.954822301864624
+        },
+        {
+          "query_id": 4496,
+          "query_label": 70,
+          "train_id": 4554,
+          "train_label": 70,
+          "score": 0.9548026919364929
+        },
+        {
+          "query_id": 3210,
+          "query_label": 64,
+          "train_id": 3183,
+          "train_label": 64,
+          "score": 0.9547341465950012
+        },
+        {
+          "query_id": 5195,
+          "query_label": 4,
+          "train_id": 5191,
+          "train_label": 4,
+          "score": 0.9547063112258911
+        },
+        {
+          "query_id": 2974,
+          "query_label": 59,
+          "train_id": 2963,
+          "train_label": 59,
+          "score": 0.9545955657958984
+        },
+        {
+          "query_id": 2962,
+          "query_label": 59,
+          "train_id": 2963,
+          "train_label": 59,
+          "score": 0.954566240310669
+        },
+        {
+          "query_id": 6318,
+          "query_label": 49,
+          "train_id": 6531,
+          "train_label": 49,
+          "score": 0.9544553756713867
+        },
+        {
+          "query_id": 7362,
+          "query_label": 93,
+          "train_id": 7424,
+          "train_label": 93,
+          "score": 0.9543918371200562
+        },
+        {
+          "query_id": 2950,
+          "query_label": 59,
+          "train_id": 2949,
+          "train_label": 59,
+          "score": 0.9542883634567261
+        },
+        {
+          "query_id": 6054,
+          "query_label": 13,
+          "train_id": 6061,
+          "train_label": 13,
+          "score": 0.9542514085769653
+        },
+        {
+          "query_id": 5892,
+          "query_label": 62,
+          "train_id": 5900,
+          "train_label": 62,
+          "score": 0.9540815949440002
+        },
+        {
+          "query_id": 2258,
+          "query_label": 40,
+          "train_id": 2275,
+          "train_label": 40,
+          "score": 0.9540243744850159
+        },
+        {
+          "query_id": 5539,
+          "query_label": 65,
+          "train_id": 5538,
+          "train_label": 65,
+          "score": 0.9539783596992493
+        },
+        {
+          "query_id": 3186,
+          "query_label": 64,
+          "train_id": 3183,
+          "train_label": 64,
+          "score": 0.9539638757705688
+        },
+        {
+          "query_id": 4966,
+          "query_label": 46,
+          "train_id": 5004,
+          "train_label": 46,
+          "score": 0.9538919925689697
+        },
+        {
+          "query_id": 6707,
+          "query_label": 78,
+          "train_id": 6714,
+          "train_label": 78,
+          "score": 0.9538180828094482
+        },
+        {
+          "query_id": 2691,
+          "query_label": 57,
+          "train_id": 2689,
+          "train_label": 57,
+          "score": 0.9537670612335205
+        },
+        {
+          "query_id": 4161,
+          "query_label": 51,
+          "train_id": 4167,
+          "train_label": 51,
+          "score": 0.9537595510482788
+        },
+        {
+          "query_id": 6542,
+          "query_label": 49,
+          "train_id": 6547,
+          "train_label": 49,
+          "score": 0.9536773562431335
+        },
+        {
+          "query_id": 2195,
+          "query_label": 40,
+          "train_id": 2279,
+          "train_label": 40,
+          "score": 0.9536429643630981
+        },
+        {
+          "query_id": 5537,
+          "query_label": 65,
+          "train_id": 5581,
+          "train_label": 65,
+          "score": 0.9536159038543701
+        },
+        {
+          "query_id": 4954,
+          "query_label": 46,
+          "train_id": 4970,
+          "train_label": 46,
+          "score": 0.9535553455352783
+        },
+        {
+          "query_id": 2936,
+          "query_label": 59,
+          "train_id": 2981,
+          "train_label": 59,
+          "score": 0.95343017578125
+        },
+        {
+          "query_id": 3246,
+          "query_label": 64,
+          "train_id": 3215,
+          "train_label": 64,
+          "score": 0.953422486782074
+        },
+        {
+          "query_id": 7301,
+          "query_label": 84,
+          "train_id": 4827,
+          "train_label": 84,
+          "score": 0.953403115272522
+        },
+        {
+          "query_id": 3022,
+          "query_label": 59,
+          "train_id": 2981,
+          "train_label": 59,
+          "score": 0.9533374905586243
+        },
+        {
+          "query_id": 4992,
+          "query_label": 46,
+          "train_id": 4993,
+          "train_label": 46,
+          "score": 0.9532979726791382
+        },
+        {
+          "query_id": 264,
+          "query_label": 72,
+          "train_id": 319,
+          "train_label": 72,
+          "score": 0.9532832503318787
+        },
+        {
+          "query_id": 294,
+          "query_label": 72,
+          "train_id": 319,
+          "train_label": 72,
+          "score": 0.9532570838928223
+        },
+        {
+          "query_id": 3273,
+          "query_label": 64,
+          "train_id": 3270,
+          "train_label": 64,
+          "score": 0.9532164335250854
+        },
+        {
+          "query_id": 110,
+          "query_label": 76,
+          "train_id": 177,
+          "train_label": 76,
+          "score": 0.9532099962234497
+        },
+        {
+          "query_id": 2289,
+          "query_label": 40,
+          "train_id": 5538,
+          "train_label": 65,
+          "score": 0.9531911611557007
+        },
+        {
+          "query_id": 1487,
+          "query_label": 50,
+          "train_id": 1448,
+          "train_label": 50,
+          "score": 0.953049898147583
+        },
+        {
+          "query_id": 4217,
+          "query_label": 51,
+          "train_id": 4167,
+          "train_label": 51,
+          "score": 0.9529511332511902
+        },
+        {
+          "query_id": 7295,
+          "query_label": 36,
+          "train_id": 7294,
+          "train_label": 36,
+          "score": 0.9528817534446716
+        },
+        {
+          "query_id": 1405,
+          "query_label": 50,
+          "train_id": 1448,
+          "train_label": 50,
+          "score": 0.9528690576553345
+        },
+        {
+          "query_id": 4210,
+          "query_label": 51,
+          "train_id": 4236,
+          "train_label": 51,
+          "score": 0.9528555870056152
+        },
+        {
+          "query_id": 2295,
+          "query_label": 40,
+          "train_id": 2310,
+          "train_label": 40,
+          "score": 0.9528393745422363
+        },
+        {
+          "query_id": 1425,
+          "query_label": 50,
+          "train_id": 1385,
+          "train_label": 50,
+          "score": 0.9527884721755981
+        },
+        {
+          "query_id": 6231,
+          "query_label": 48,
+          "train_id": 6233,
+          "train_label": 48,
+          "score": 0.9527817368507385
+        },
+        {
+          "query_id": 2926,
+          "query_label": 59,
+          "train_id": 2944,
+          "train_label": 59,
+          "score": 0.952765941619873
+        },
+        {
+          "query_id": 5869,
+          "query_label": 62,
+          "train_id": 5888,
+          "train_label": 62,
+          "score": 0.9527342319488525
+        },
+        {
+          "query_id": 1383,
+          "query_label": 50,
+          "train_id": 1448,
+          "train_label": 50,
+          "score": 0.9525236487388611
+        },
+        {
+          "query_id": 4981,
+          "query_label": 46,
+          "train_id": 4975,
+          "train_label": 46,
+          "score": 0.9524543285369873
+        },
+        {
+          "query_id": 2758,
+          "query_label": 55,
+          "train_id": 2761,
+          "train_label": 55,
+          "score": 0.952354907989502
+        },
+        {
+          "query_id": 8085,
+          "query_label": 34,
+          "train_id": 8086,
+          "train_label": 34,
+          "score": 0.9523407220840454
+        },
+        {
+          "query_id": 2957,
+          "query_label": 59,
+          "train_id": 2949,
+          "train_label": 59,
+          "score": 0.9522591233253479
+        },
+        {
+          "query_id": 4983,
+          "query_label": 46,
+          "train_id": 4993,
+          "train_label": 46,
+          "score": 0.9521183371543884
+        },
+        {
+          "query_id": 4495,
+          "query_label": 70,
+          "train_id": 4554,
+          "train_label": 70,
+          "score": 0.9519618153572083
+        },
+        {
+          "query_id": 4841,
+          "query_label": 90,
+          "train_id": 4852,
+          "train_label": 90,
+          "score": 0.9519053101539612
+        },
+        {
+          "query_id": 3249,
+          "query_label": 64,
+          "train_id": 3283,
+          "train_label": 64,
+          "score": 0.9518623352050781
+        },
+        {
+          "query_id": 1401,
+          "query_label": 50,
+          "train_id": 1448,
+          "train_label": 50,
+          "score": 0.9515348672866821
+        },
+        {
+          "query_id": 6116,
+          "query_label": 63,
+          "train_id": 6122,
+          "train_label": 63,
+          "score": 0.9514923691749573
+        },
+        {
+          "query_id": 7001,
+          "query_label": 34,
+          "train_id": 7000,
+          "train_label": 34,
+          "score": 0.9514753818511963
+        },
+        {
+          "query_id": 2282,
+          "query_label": 40,
+          "train_id": 2275,
+          "train_label": 40,
+          "score": 0.9514702558517456
+        },
+        {
+          "query_id": 2757,
+          "query_label": 55,
+          "train_id": 2770,
+          "train_label": 55,
+          "score": 0.9514089822769165
+        },
+        {
+          "query_id": 4977,
+          "query_label": 46,
+          "train_id": 4975,
+          "train_label": 46,
+          "score": 0.9514068365097046
+        },
+        {
+          "query_id": 6199,
+          "query_label": 48,
+          "train_id": 6232,
+          "train_label": 48,
+          "score": 0.9513368606567383
+        },
+        {
+          "query_id": 4995,
+          "query_label": 46,
+          "train_id": 5000,
+          "train_label": 46,
+          "score": 0.9512933492660522
+        },
+        {
+          "query_id": 6959,
+          "query_label": 33,
+          "train_id": 6941,
+          "train_label": 33,
+          "score": 0.9512611031532288
+        },
+        {
+          "query_id": 5867,
+          "query_label": 62,
+          "train_id": 5893,
+          "train_label": 62,
+          "score": 0.9512509107589722
+        },
+        {
+          "query_id": 97,
+          "query_label": 76,
+          "train_id": 177,
+          "train_label": 76,
+          "score": 0.9512133002281189
+        },
+        {
+          "query_id": 1400,
+          "query_label": 50,
+          "train_id": 1385,
+          "train_label": 50,
+          "score": 0.9511705636978149
+        },
+        {
+          "query_id": 147,
+          "query_label": 76,
+          "train_id": 177,
+          "train_label": 76,
+          "score": 0.9510561227798462
+        },
+        {
+          "query_id": 4555,
+          "query_label": 70,
+          "train_id": 4507,
+          "train_label": 70,
+          "score": 0.9509214162826538
+        },
+        {
+          "query_id": 5850,
+          "query_label": 62,
+          "train_id": 5888,
+          "train_label": 62,
+          "score": 0.9507976770401001
+        },
+        {
+          "query_id": 5552,
+          "query_label": 65,
+          "train_id": 5538,
+          "train_label": 65,
+          "score": 0.9507967829704285
+        },
+        {
+          "query_id": 112,
+          "query_label": 76,
+          "train_id": 177,
+          "train_label": 76,
+          "score": 0.9507901668548584
+        },
+        {
+          "query_id": 3575,
+          "query_label": 71,
+          "train_id": 3617,
+          "train_label": 71,
+          "score": 0.9506993293762207
+        },
+        {
+          "query_id": 424,
+          "query_label": 72,
+          "train_id": 380,
+          "train_label": 72,
+          "score": 0.9506780505180359
+        },
+        {
+          "query_id": 2281,
+          "query_label": 40,
+          "train_id": 2257,
+          "train_label": 40,
+          "score": 0.9506354928016663
+        },
+        {
+          "query_id": 37,
+          "query_label": 76,
+          "train_id": 177,
+          "train_label": 76,
+          "score": 0.9506128430366516
+        },
+        {
+          "query_id": 2252,
+          "query_label": 40,
+          "train_id": 2310,
+          "train_label": 40,
+          "score": 0.9505718946456909
+        },
+        {
+          "query_id": 5208,
+          "query_label": 4,
+          "train_id": 5182,
+          "train_label": 4,
+          "score": 0.9505107402801514
+        },
+        {
+          "query_id": 5528,
+          "query_label": 65,
+          "train_id": 5538,
+          "train_label": 65,
+          "score": 0.9505093693733215
+        },
+        {
+          "query_id": 30,
+          "query_label": 76,
+          "train_id": 144,
+          "train_label": 76,
+          "score": 0.9504820704460144
+        },
+        {
+          "query_id": 2262,
+          "query_label": 40,
+          "train_id": 2257,
+          "train_label": 40,
+          "score": 0.9504527449607849
+        },
+        {
+          "query_id": 158,
+          "query_label": 76,
+          "train_id": 177,
+          "train_label": 76,
+          "score": 0.9503964185714722
+        },
+        {
+          "query_id": 2924,
+          "query_label": 59,
+          "train_id": 2944,
+          "train_label": 59,
+          "score": 0.9503456354141235
+        },
+        {
+          "query_id": 7925,
+          "query_label": 99,
+          "train_id": 7934,
+          "train_label": 99,
+          "score": 0.9502559304237366
+        },
+        {
+          "query_id": 1393,
+          "query_label": 50,
+          "train_id": 1385,
+          "train_label": 50,
+          "score": 0.9502248764038086
+        },
+        {
+          "query_id": 6246,
+          "query_label": 48,
+          "train_id": 6218,
+          "train_label": 48,
+          "score": 0.9501745700836182
+        }
+      ],
+      "cosine_top": [
+        {
+          "query_id": 7309,
+          "query_label": 93,
+          "train_id": 7307,
+          "train_label": 93,
+          "score": 0.9999999403953552
+        },
+        {
+          "query_id": 49,
+          "query_label": 76,
+          "train_id": 177,
+          "train_label": 76,
+          "score": 0.9916442632675171
+        },
+        {
+          "query_id": 182,
+          "query_label": 76,
+          "train_id": 177,
+          "train_label": 76,
+          "score": 0.9915431141853333
+        },
+        {
+          "query_id": 6244,
+          "query_label": 48,
+          "train_id": 6213,
+          "train_label": 48,
+          "score": 0.9898850321769714
+        },
+        {
+          "query_id": 3419,
+          "query_label": 22,
+          "train_id": 3440,
+          "train_label": 22,
+          "score": 0.9891664981842041
+        },
+        {
+          "query_id": 4078,
+          "query_label": 11,
+          "train_id": 4058,
+          "train_label": 11,
+          "score": 0.9888373017311096
+        },
+        {
+          "query_id": 4212,
+          "query_label": 51,
+          "train_id": 4224,
+          "train_label": 51,
+          "score": 0.9870244264602661
+        },
+        {
+          "query_id": 3995,
+          "query_label": 11,
+          "train_id": 4027,
+          "train_label": 11,
+          "score": 0.9851346611976624
+        },
+        {
+          "query_id": 4131,
+          "query_label": 28,
+          "train_id": 4127,
+          "train_label": 28,
+          "score": 0.9848360419273376
+        },
+        {
+          "query_id": 5543,
+          "query_label": 65,
+          "train_id": 5576,
+          "train_label": 65,
+          "score": 0.9826988577842712
+        },
+        {
+          "query_id": 5526,
+          "query_label": 65,
+          "train_id": 5538,
+          "train_label": 65,
+          "score": 0.9815849661827087
+        },
+        {
+          "query_id": 5554,
+          "query_label": 65,
+          "train_id": 5576,
+          "train_label": 65,
+          "score": 0.9814577102661133
+        }
+      ]
+    }
+  }
+}
